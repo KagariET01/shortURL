@@ -1,0 +1,11 @@
+{
+	"note":"rename this file to cfg.json after you fill in the values",
+	"token":"your_bot_token_here",
+	"userid":"your_user_id_here, this value's type is string, do not remove the quotes",
+	"msginclude":[
+		"content",
+		"embeds",
+		"poll"
+	],
+	"using_imbot":true
+}
